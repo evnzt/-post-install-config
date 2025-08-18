@@ -56,6 +56,8 @@ __Step 1__: Create Email Routing:
 - Make sure *"Require registration & login to create tickets"* is unchecked to allow anyone to create tickets
 <br />
 <p>
+
+---
   
 __Step 2__: Configure Roles / Departments / Agents / Teams  
 
@@ -111,6 +113,8 @@ __Step 2__: Configure Roles / Departments / Agents / Teams
 <br />
 <p>
 
+---
+
 __Step 3__: Configure SLAs (Service Level Agreements)
 
 <img width="1793" height="673" alt="image" src="https://github.com/user-attachments/assets/8a624d0c-2bc1-4b5b-8972-2256b84ce21d" />
@@ -129,6 +133,8 @@ __Step 3__: Configure SLAs (Service Level Agreements)
 <br />
 <p>
 
+---
+
 __Step 4__: Configure Help Topics:
 - Go to __Admin Panel__ → __Manage__ → __Help Topics__
 - Click __+ Add New Help Topic__
@@ -143,6 +149,8 @@ __Step 4__: Configure Help Topics:
 </p>
 <br />
 <p>
+
+---
   
 __Step 5__: Create End-User(s):
 - Go to __Agent Panel__ → __Users__ → __User Directory__
@@ -152,6 +160,8 @@ __Step 5__: Create End-User(s):
 </p>
 <br />
 <p>
+
+---
   
 __Step 6__: Test Ticket Creation:
 
@@ -169,7 +179,15 @@ __Step 6__: Test Ticket Creation:
 </p>
 <br />
 <p>
+
+---
   
 Congratulations! Hopefully, the configuration has been completed without any errors.
+
+---
+
+<h2>Closing Thoughts</h2>
+
+Installing and configuring osTicket provides me with hands-on practice in the full help-desk flow, including the web stack, email piping, permissions, SLAs, form building, automations, and maintenance. That end-to-end work mirrors how IT teams run service operations: triage → escalate → resolve → report.
 </p>
 <br />
